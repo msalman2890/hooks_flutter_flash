@@ -1,4 +1,4 @@
-# hooks_flutter_flash
+# Flutter Hooks (Flutter Flash Karachi)
 
 This is the project for the understanding of the behaviour of hooks and develop the custom hooks. This tutorial is presented at Flutter Flash, Karachi
 
